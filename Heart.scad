@@ -1,4 +1,3 @@
-color("red")
 union(){
     cube(10);
     translate([5,0,0])
